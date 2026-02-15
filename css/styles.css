@@ -122,7 +122,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
  margin: 0 auto 48px;
- max-width: 600px;
+ max-width: 496px;
 
 }
 
@@ -224,6 +224,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .team-card-info {
     padding: 32px 16px;
+    text-align: center;
 
 }
 .team-subtitle {
