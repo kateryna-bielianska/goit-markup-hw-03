@@ -29,6 +29,11 @@ a {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 /* #endregion */
 
 /* #region header */ 
